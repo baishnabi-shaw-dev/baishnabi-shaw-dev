@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Baishnabi Shaw  
 
-<!--
-**baishnabi-shaw-dev/baishnabi-shaw-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programmer | 🎓 Learner | 🚀 Future Software Developer  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- I am passionate about programming and problem-solving  
+- Comfortable working with **Java, C, and Python**  
+- Interested in building logical, efficient, and clean code  
+- Believe in continuous learning and self-improvement  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming Languages:**  
+  - Java ☕  
+  - C  
+  - Python 🐍  
+
+- **Core Concepts:**  
+  - Object-Oriented Programming  
+  - Basic Data Structures  
+  - Problem Solving & Logic Building  
+
+- **Tools:**  
+  - Git & GitHub  
+  - VS Code  
+
+## 🌱 Currently Learning
+- Advanced Java concepts  
+- Data Structures & Algorithms  
+- Writing efficient and optimized code  
+
+## 🚀 Projects
+- 🔹 Java-based mini projects  
+- 🔹 C programs for logic building  
+- 🔹 Python practice scripts  
+
+## 📊 GitHub Stats
+
+
+## 📫 Connect With Me
