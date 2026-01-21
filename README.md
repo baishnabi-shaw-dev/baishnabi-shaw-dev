@@ -33,7 +33,7 @@
 - 🔹 C programs for logic building  
 - 🔹 Python practice scripts  
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 
 ## 📫 Connect With Me
