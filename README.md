@@ -12,7 +12,9 @@
 - **Programming Languages:**  
   - Java ☕  
   - C  
-  - Python 🐍  
+  - Python 🐍
+  - HTML
+  - CSS
 
 - **Core Concepts:**  
   - Object-Oriented Programming  
