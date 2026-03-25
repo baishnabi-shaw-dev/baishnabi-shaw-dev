@@ -93,17 +93,20 @@
 
 <p align="center">
   <a href="mailto:baishanbi563@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Baishnabi%20Shaw-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Open to collaboration, learning, and building impactful projects.</i>
+  <b>Let’s collaborate on ideas, build projects, and grow together 🚀</b>
+</p>
+
+<p align="center">
+  <i>Always learning • Always building • Always improving</i>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Code. Learn. Build. Repeat.</b>
+  ✨ <b>Code. Learn. Build. Repeat.</b>
 </p>
-
