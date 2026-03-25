@@ -91,9 +91,19 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [baishanbi563@gmail.com](mailto:baishanbi563@gmail.com)
+<p align="center">
+  <a href="mailto:baishanbi563@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Baishnabi%20Shaw-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-⭐ *"Code. Learn. Build. Repeat."*
+<p align="center">
+  <i>Open to collaboration, learning, and building impactful projects.</i>
+</p>
 
+---
 
+<p align="center">
+  ⭐ <b>Code. Learn. Build. Repeat.</b>
+</p>
 
