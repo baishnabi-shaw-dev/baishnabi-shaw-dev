@@ -70,10 +70,9 @@
 
 
 ## 🏆 Achievements
+ 
 
-<p align="center">
-  <img src=["https://github-profile-trophy.vercel.app/?username=baishnabi-shaw-dev&theme=onedark&no-frame=true&row=1&column=6" />](https://github.com/baishnabi-shaw-dev?tab=achievements)
-</p>
+[![View Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github)](https://github.com/baishnabi-shaw-dev?tab=achievements)
 
 ## 🧠 Currently Learning
 
