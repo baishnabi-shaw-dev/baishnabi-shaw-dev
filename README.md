@@ -46,9 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight&cache_seconds=30" alt="GitHub Stats"/>
 </p>
-
-🔗 https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight&cache_seconds=30
-
 ---
 
 ## 🔥 Streak Stats
@@ -56,9 +53,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baishnabi-shaw-dev&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-🔗 https://streak-stats.demolab.com/?user=baishnabi-shaw-dev&theme=tokyonight
-
 ---
 
 ## 💻 Top Languages
@@ -66,9 +60,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
-🔗 https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight
-
 ---
 
 ## 📈 Activity Graph
@@ -76,9 +67,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night" alt="Activity Graph"/>
 </p>
-
-🔗 https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night
-
 ---
 
 ## 🏆 Achievements
@@ -86,9 +74,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baishnabi-shaw-dev&theme=tokyonight" alt="Trophies"/>
 </p>
-
-🔗 https://github-profile-trophy.vercel.app/?username=baishnabi-shaw-dev&theme=tokyonight
-
 ---
 
 ## 🧠 Currently Learning
