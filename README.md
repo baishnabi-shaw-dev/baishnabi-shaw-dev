@@ -91,11 +91,11 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:baishanbi563@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+
+[![Email](https://img.shields.io/badge/Email-baishanbi563%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baishanbi563@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-baishnabi--shaw--dev-181717?style=for-the-badge&logo=github)](https://github.com/baishnabi-shaw-dev)
 
 <p align="center">
   <b>Let’s collaborate on ideas, build projects, and grow together 🚀</b>
