@@ -71,15 +71,13 @@
 
 ## 🏆 Achievements
 
- ## 🏆 Achievements  
-
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 </p>
 
-[![View Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github)](https://github.com/baishnabi-shaw-dev?tab=achievements)
+
 
 ## 🧠 Currently Learning
 
