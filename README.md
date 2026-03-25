@@ -39,42 +39,41 @@
 
 💻 Passionate Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight&cache_seconds=30" alt="GitHub Stats"/>
 </p>
----
+
 
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baishnabi-shaw-dev&theme=tokyonight" alt="GitHub Streak"/>
 </p>
----
+
 
 ## 💻 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
----
+
 
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night" alt="Activity Graph"/>
 </p>
----
+
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baishnabi-shaw-dev&theme=tokyonight" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=baishnabi-shaw-dev&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
----
 
 ## 🧠 Currently Learning
 
@@ -82,7 +81,7 @@
 * Data Structures & Algorithms
 * AI & Chatbot Development
 
----
+
 
 ## 📫 Connect With Me
 
