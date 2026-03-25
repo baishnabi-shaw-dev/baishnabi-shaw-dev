@@ -40,47 +40,11 @@
 
 ## 📫 Connect With Me
 
-# 👋 Hi, I'm <YOUR_NAME>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight&cache_seconds=30)
 
-💻 Passionate Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner  
+![GitHub Streak](https://streak-stats.demolab.com/?user=baishnabi-shaw-dev&theme=tokyonight)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your@email.com  
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight)
 
 ⭐ *"Code. Learn. Build. Repeat."*
+
