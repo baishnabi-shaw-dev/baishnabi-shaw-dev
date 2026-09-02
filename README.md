@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight)
 
 
 ## 🔥 Streak Stats
