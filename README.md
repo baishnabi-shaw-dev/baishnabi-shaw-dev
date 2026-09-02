@@ -43,11 +43,10 @@
 
 ## 📊 GitHub Stats
 
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Stats">
 </p>
 
 
