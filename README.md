@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight&cache_seconds=30" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baishnabi-shaw-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 
@@ -58,14 +58,14 @@
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night" alt="Activity Graph">
 </p>
 
 
