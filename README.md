@@ -40,34 +40,10 @@
 💻 Passionate Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 
 
-
-## 📊 GitHub Stats
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats">
-</p>
-
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baishnabi-shaw-dev&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishnabi-shaw-dev&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baishnabi-shaw-dev&theme=tokyo-night" alt="Activity Graph">
 </p>
 
 
