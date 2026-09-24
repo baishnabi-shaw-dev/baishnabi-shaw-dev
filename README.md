@@ -77,8 +77,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake-dark.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
 
