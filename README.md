@@ -1,4 +1,5 @@
 <!-- Banner -->
+
 <h1 align="center">
   Hi 👋, I'm Baishnabi Shaw
 </h1>
@@ -8,23 +9,22 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=C+Developer;Hackerrank+Problem+Solver;Learning+Full-Stack+Development;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=C+Developer;HackerRank+Problem+Solver;Learning+Full-Stack+Development;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 Second-year **BCA Student**.
-- 💻 Passionate about **Java, DSA, and Problem Solving**.
-- 🧩 Practice **LeetCode & Hackerrank** to improve my problem-solving skills.
-- 🌱 Currently learning **JavaScript, React, Node.js,DSA,Python and AI**.
-- 🚀 Goal: Become a **Full-Stack & AI Developer**.
+- 🎓 Second-year **BCA Student**
+- 💻 Passionate about **Java, DSA, and Problem Solving**
+- 🧩 Practice **LeetCode & HackerRank** to improve my problem-solving skills
+- 🌱 Currently learning **JavaScript, React, Node.js, DSA, Python and AI**
+- 🚀 Goal: Become a **Full-Stack & AI Developer**
 
 ---
 
 ## 🧠 Current Focus
-
 
 - Data Structures & Algorithms (DSA)
 - Artificial Intelligence (AI)
@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,c" />
 </p>
 
-### Database Languages
+### Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -57,59 +57,76 @@
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
 <!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baishnabi-shaw-dev&theme=tokyonight"/>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baishnabi-shaw-dev&theme=tokyonight"
+    width="100%"
+  />
+</p>
 
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baishnabi-shaw-dev&theme=tokyonight" width="100%"/>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baishnabi-shaw-dev&theme=tokyonight"
+        width="100%"
+      />
     </td>
+
     <td align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baishnabi-shaw-dev&theme=tokyonight" width="100%"/>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baishnabi-shaw-dev&theme=tokyonight"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake-dark.svg"
-  />
+<!-- GitHub Contribution Snake -->
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
-  />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake-dark.svg"
+    />
 
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
-  />
-</picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 ---
-
 
 ## 🎯 Learning Goals
 
 ### 💻 Programming & DSA
+
 - ☕ Master Java
 - 🐍 Master Python
 - ⚙️ Master C / C++
 - 🧩 Advanced Data Structures & Algorithms (DSA)
 
 ### 🌐 Full-Stack Development
+
 - 📜 JavaScript (ES6+)
 - ⚛️ React.js
 - 🌐 Node.js + Express.js
 - 🛢️ SQL & NoSQL Databases
 
 ### 🤖 AI & LLM Engineering
+
 - 🤖 Artificial Intelligence, Machine Learning & LLMs
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 🔌 Model Context Protocol (MCP)
@@ -117,6 +134,7 @@
 - 🗃️ Vector Databases (Qdrant & ChromaDB)
 
 ### 🛠️ Tools & Platforms
+
 - 🐳 Docker
 - 📱 Android Development (Java & Kotlin)
 
@@ -124,43 +142,49 @@
 
 ## 🌍 Connect With Me
 
-
 <table>
   <tr>
+
     <td align="center">
-        <a href="mailto:baishnabi563@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
+      <a href="mailto:baishnabi563@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
     </td>
+
     <td align="center">
-        <a href="https://www.linkedin.com/in/baishnabi-shaw-dev/">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+      <a href="https://www.linkedin.com/in/baishnabi-shaw-dev/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
     </td>
+
     <td align="center">
-        <a href="https://leetcode.com/u/baishnabi-shaw-dev/">
-            <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-        </a>
+      <a href="https://leetcode.com/u/baishnabi-shaw-dev/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
     </td>
+
     <td align="center">
-        <a href="https://www.hackerrank.com/profile/baishnabi563">
-            <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-        </a>
+      <a href="https://www.hackerrank.com/profile/baishnabi563">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
     </td>
-   
+
   </tr>
 </table>
 
-
 ---
 
+## 💭 Random Dev Quote
 
-<!-- Random Dev Quote -->
-<img width="100%" src="https://img.shields.io/badge/Anyone_can_write_code_that_a_computer_can_understand_but_a_good_programmers_write_code_that_humans_can_understand-olive"/>
+<img
+  width="100%"
+  src="https://img.shields.io/badge/Anyone_can_write_code_that_a_computer_can_understand_but_a_good_programmer_writes_code_that_humans_can_understand-olive"
+/>
 
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b><br><br>
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  <br><br>
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
