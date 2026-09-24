@@ -75,7 +75,22 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/baishnabi-shaw-dev/baishnabi-shaw-dev/output/github-snake.svg"
+  />
+</picture>
 
 ---
 
