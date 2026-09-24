@@ -23,7 +23,6 @@ jobs:
         with:
           github_user_name: baishnabi-shaw-dev
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
